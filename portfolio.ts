@@ -205,7 +205,7 @@ export const seoData: SEODataType = {
   title: "Ryan Nugroho | Full Stack Developer",
   description: greetings.description,
   author: "Ryan Nugroho",
-  image: "https://avatars.githubusercontent.com/u/59178380?v=4",
+  image: "https://avatars.githubusercontent.com/u/92157016?s=96&v=4",
   url: "",
   keywords: [
     "Ryan Nugroho",
