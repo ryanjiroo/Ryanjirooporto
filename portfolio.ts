@@ -197,7 +197,16 @@ export const projects: ProjectType[] = [
 ];
 
 export const feedbacks: FeedbackType[] = [
-
+  {
+    name: "Aprilia Budi Pratiwi",
+    role: "Machine Learning Cohort at Bangkit Academy",
+    feedback: "Recently, I have started to understand and delve deeper into the world of Machine Learning thanks to the guidance and support from Ryan. This learning process has opened my eyes to how technology can be used to create intelligent systems, such as recommendations and data analysis. Thank you so much, Ryan, for your outstanding guidance!",
+  },
+  {
+    name: "Silvi Kusuma Wardhani Gunawan",
+    role: "Machine Learning Cohort at Bangkit Academy",
+    feedback: "During my time as a classmate of Ryan Nughoro in the ML 23 cohort at Bangkit Academy 2024 H2, the experience was truly memorable. Ryan is exceptionally diligent and consistently active during ILT sessions and mentoring with our instructors. He also shows great initiative in sharing knowledge with peers, as seen in his role as a peer tutor across several subtopics in the Bangkit curriculum. His ability to help classmates gain a deeper understanding through clear and accessible explanations is commendable.Connecting with Ryan has been a genuinely positive experience. He is a highly talented individual, and I am confident he will continue to grow and thrive in the future. I firmly believe that anyone who has the opportunity to work with him will greatly value his skills, dedication, and collaborative spirit.",
+  },
 ];
 
 // See object prototype on /types/section.ts page
