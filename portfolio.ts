@@ -40,7 +40,7 @@ export const skillsSection: SkillsSectionType = {
   data: [
     {
       title: "Full Stack Development",
-      lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
+      lottieAnimationFile: "https://ryanjiroo.github.io/Ryanjirooporto/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
       skills: [
         emoji("Front-end Developer – Crafting beautiful, responsive, and interactive web experiences using React.js, Next.js, Tailwind CSS, and Bootstrap."),
         emoji("Back-end Developer – Building powerful, scalable, and secure server-side applications with Node.js, Django & Django REST Framework, Java Spring Boot, and Laravel (PHP)."),
