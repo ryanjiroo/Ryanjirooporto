@@ -171,7 +171,7 @@ export const experience: ExperienceType[] = [
   {
     role: "Machine Learning Cohort",
     company: "Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka",
-    companyLogo: "https://ryanjiroo.github.io/Ryanjirooporto/img/icons/common/bangkit.jpg",
+    companyLogo: "https://ryanjiroo.github.io/Ryanjirooporto/img/icons/common/Bangkit.jpg",
     date: "September 2024 - January 2025",
     desc: "Participated in an intensive Machine Learning program by Google, GoTo, and Traveloka. Gained hands-on experience in building, training, and deploying models using TensorFlow, along with data preprocessing and model optimization. Worked on a capstone project focused on applying ML to empower education, collaborating with peers and industry advisors. Besides that, I also learned about data analysis with Python and SQL Query. ",
   },
