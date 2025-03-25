@@ -12,7 +12,7 @@ import {
 } from "./types/sections";
 
 export const greetings: GreetingsType = {
-  name: "Ryan N",
+  name: "Ryan Nugroho",
   title: "Hi all, I'm Ryan",
   description:
     "Hey there! I'm a passionate Fullstack Developer skilled in Laravel, ReactJS, NextJS, NodeJS, and Java Spring Boot. I love building efficient, scalable web apps and enjoy working both independently and with a great team. Let’s create something amazing together!",
@@ -153,14 +153,14 @@ export const experience: ExperienceType[] = [
   {
     role: "Software Engineer Intern",
     company: "Telkom Indonesia",
-    companyLogo: "/Ryanjirooporto/public/img/icons/common/telkom.png",
+    companyLogo: "https://ryanjiroo.github.io/Ryanjirooporto/img/icons/common/telkom.png",
     date: "April 2024 - July 2024",
     desc: "During this internship, I revisited foundational concepts and gained practical experience with Laravel, Bootstrap, and MySQL. I actively contributed to a web development project with Laravel, enhancing my frontend and backend development skills. Additionally, I managed and optimized MySQL databases to ensure efficient data storage and retrieval. ",
   },
   {
     role: "Full-Stack Developer Intern",
     company: "PT Winnicode Garuda Teknologi",
-    companyLogo: "/Ryanjirooporto/public/img/icons/common/winnicode.jpg",
+    companyLogo: "https://ryanjiroo.github.io/Ryanjirooporto/img/icons/common/winnicode.jpg",
     date: "January 2025 - March 2025",
     desc: "During this Project-Based Internship, I learned about the role of a Full Stack Developer at PT. Winnicode Garuda Teknologi. I gained hands-on experience and practical knowledge in utilizing various tools and technologies such as ReactJS, Laravel, MySQL, Git, TailwindCSS and others commonly used by Full Stack Developers in developing web-based applications for employee attendance.",
     // descBullets: [
@@ -171,7 +171,7 @@ export const experience: ExperienceType[] = [
   {
     role: "Machine Learning Cohort",
     company: "Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka",
-    companyLogo: "/Ryanjirooporto/public/img/icons/common/bangkit.jpg",
+    companyLogo: "https://ryanjiroo.github.io/Ryanjirooporto/img/icons/common/bangkit.jpg",
     date: "September 2024 - January 2025",
     desc: "Participated in an intensive Machine Learning program by Google, GoTo, and Traveloka. Gained hands-on experience in building, training, and deploying models using TensorFlow, along with data preprocessing and model optimization. Worked on a capstone project focused on applying ML to empower education, collaborating with peers and industry advisors. Besides that, I also learned about data analysis with Python and SQL Query. ",
   },
