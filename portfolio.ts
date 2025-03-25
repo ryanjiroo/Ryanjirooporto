@@ -196,6 +196,10 @@ export const projects: ProjectType[] = [
   },
 ];
 
+export const feedbacks: FeedbackType[] = [
+
+];
+
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
   title: "Ryan Nugroho | Full Stack Developer",
