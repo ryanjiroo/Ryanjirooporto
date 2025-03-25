@@ -12,7 +12,7 @@ import {
 } from "./types/sections";
 
 export const greetings: GreetingsType = {
-  name: "Ryan Nugroho",
+  name: "Ryan N",
   title: "Hi all, I'm Ryan",
   description:
     "Hey there! I'm a passionate Fullstack Developer skilled in Laravel, ReactJS, NextJS, NodeJS, and Java Spring Boot. I love building efficient, scalable web apps and enjoy working both independently and with a great team. Let’s create something amazing together!",
