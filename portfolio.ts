@@ -184,6 +184,11 @@ export const projects: ProjectType[] = [
     link: "https://drive.google.com/file/d/1yssJ7--o2PVehTW1KyJx5mYVT4PiC2T_/view?usp=sharing",
   },
   {
+    name: "Forecasting Jakarta Air Quality",
+    desc: "Machine Learning model for Forecasting Jakarta Air Quality.",
+    github: "https://github.com/ryanjiroo/Forecasting-Kualitas-Udara-Jakarta",
+  },
+  {
     name: "Bike Sharing Data Analysis",
     desc: "Analyzed bike-sharing data using Python and Jupyter Notebook. Visualized data using Matplotlib and Seaborn to identify trends and patterns.",
     github: "https://github.com/ryanjiroo/Analisis-Data",
