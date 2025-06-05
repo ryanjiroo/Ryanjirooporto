@@ -185,7 +185,7 @@ export const projects: ProjectType[] = [
   },
   {
     name: "Forecasting Jakarta Air Quality",
-    desc: "This project develops a machine learning model to forecast air quality levels in Jakarta. It utilizes the Random Forest algorithm to predict future values based on historical environmental data. The goal is to provide accurate and timely air quality forecasts to support public health and policy decisions.",
+    desc: "This project develops a machine learning model to forecast air quality levels in Jakarta. It utilizes the Random Forest algorithm to predict future values based on historical environmental data.",
     github: "https://github.com/ryanjiroo/Forecasting-Kualitas-Udara-Jakarta",
   },
   {
