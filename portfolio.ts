@@ -180,9 +180,7 @@ export const experience: ExperienceType[] = [
 export const projects: ProjectType[] = [
    {
     name: "PelukDiri",
-    desc: "This is a web app for mental health support and an empathetic virtual friend. It was a group project, and I worked as the Front-End Developer. The app was built using ReactJS, Vite, and TailwindCSS.
-
-",
+    desc: "This is a web app for mental health support and an empathetic virtual friend. It was a group project, and I worked as the Front-End Developer. The app was built using ReactJS, Vite, and TailwindCSS.",
     link: "https://pelukdiri.vercel.app/",
   },
   {
