@@ -184,6 +184,16 @@ export const projects: ProjectType[] = [
     link: "https://pelukdiri.vercel.app/",
   },
   {
+    name: "Sport Image Classification",
+    desc: "This project uses deep learning to classify sports images. It applies EfficientNetV2L with data preparation, augmentation, and smart training to build an accurate and reliable model.",
+    link: "https://colab.research.google.com/drive/1Rg_a5KGZpys598jk9SPTdeFRUObfyTOO?usp=sharing",
+  },
+  {
+    name: "SEACHAIN",
+    desc: "This landing page for SEACHAIN is built using ReactJS, Vite, and TailwindCSS.",
+    link: "https://seachain.vercel.app/",
+  },
+  {
     name: "Fallout Activation",
     desc: "Web based application for Fallout Activation to manage Indihome and Indibiz problem report. Build with Laravel, NodeJS, Bootstrap, and MySQL.",
     link: "https://drive.google.com/file/d/1yssJ7--o2PVehTW1KyJx5mYVT4PiC2T_/view?usp=sharing",
